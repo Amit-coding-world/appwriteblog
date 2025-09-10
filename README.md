@@ -25,5 +25,7 @@ npm i react-hook-form
 npm run dev 
 ```
 
+# Hosting link
+<a href="https://appwriteblog-eight-orpin.vercel.app/">Visit click me !</a>
 
 
